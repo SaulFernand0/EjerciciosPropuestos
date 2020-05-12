@@ -20,7 +20,6 @@ class Operaciones{
             return (this.num1/this.num2)
             }
 };
-    
 
 function calcular(){
     var operacion = new Operaciones(
